@@ -3,6 +3,9 @@ import java.util.Map;
 import java.util.HashMap;
 
 public class ContainsDuplicateII {
+	/*
+	 * Given an array of integers and an integer k, find out whether there are two distinct indices i and j in the array such that nums[i] = nums[j] and the difference between i and j is at most k.
+	 */
 	public static boolean containsNearbyDuplicate(int[] nums, int k) {
 		/*************下面这个方法运行时间超时了，因为是O(n2)的时间复杂度**************/
 		/*

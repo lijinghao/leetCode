@@ -1,6 +1,11 @@
 package q1;
 
 public class TwoSum {
+	/*
+	 * Given an array of integers, return indices of the two numbers such that they add up to a specific target.
+
+       You may assume that each input would have exactly one solution.
+	 */
 	public static int[] twoSum(int[] nums, int target) {
         if(null == nums) return null;
         
