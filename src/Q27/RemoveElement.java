@@ -1,4 +1,4 @@
-package Q27;
+package q27;
 
 public class RemoveElement {
 	public static int removeElement(int[] nums, int val) {
