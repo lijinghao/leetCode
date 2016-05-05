@@ -8,7 +8,7 @@ public class RotateArray {
 
    Note:
    Try to come up as many solutions as you can, there are at least 3 different ways to solve this problem.
- */
+*/
 	
 	public static void rotate(int[] nums, int k) {
 		if(!(null == nums || 0 == k)){
