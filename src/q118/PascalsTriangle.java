@@ -71,7 +71,7 @@ public class PascalsTriangle {
 //    		System.out.println(i);
 //    	}
     	
-    	List<List<Integer>> result = generate(0);
+    	List<List<Integer>> result = generate(10);
     	for(List<Integer> i : result){
     		System.out.println(i);
     	}
